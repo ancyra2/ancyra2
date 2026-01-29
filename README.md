@@ -1,4 +1,3 @@
-👋 Hi, I’m Talih Duran
 <p align="center"> <b>Computer Engineer (MSc)</b><br/> <b>BSc in Statistics</b> • <b>BSc in Management Information Systems</b><br/><br/> 🤖 <b>AI Engineer</b> • 💻 <b>Software Developer</b> • 📊 <b>Data Scientist</b> </p>
 
 🚀 About Me
