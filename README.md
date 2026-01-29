@@ -17,33 +17,6 @@
 
 💡 My profile is shaped by a strong mix of statistics, software engineering and AI-driven development.
 
-🧠 Tech Stack
-🔹 Languages
-
-
-
-
-
-
-
-
-🔹 AI / Data
-
-
-
-
-
-
-
-
-🔹 Web & Backend
-
-
-
-
-
-
-🔹 Databases & Tools
 
 📌 Focus Areas
 
