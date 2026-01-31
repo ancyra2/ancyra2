@@ -16,7 +16,6 @@
 
 💡 My profile is shaped by a strong mix of statistics, software engineering and AI-driven development.
 
-
 📌 Focus Areas
 
 🤖 Artificial Intelligence & Deep Learning
@@ -28,13 +27,6 @@
 ⚙️ C++ Projects & Performance-Oriented Systems
 
 📊 Statistical Modeling & Data Science
-
-📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ancyra2&theme=tokyonight" />
-</p>
-
-
 
 🌐 Connect with Me
 
